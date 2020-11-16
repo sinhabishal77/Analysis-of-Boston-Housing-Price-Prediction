@@ -40,7 +40,7 @@ Number of Instances: 506
        
        - MEDV     Median value of owner-occupied homes in $1000's
     
-      Missing Attribute Values: None
+    Missing Attribute Values: None
 
     Creator: Harrison, D. and Rubinfeld, D.L.
 
