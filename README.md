@@ -16,7 +16,6 @@ Number of Instances: 506
        
        - ZN       proportion of residential land zoned for lots over 25,000 sq.ft.
        
-       
        - INDUS    proportion of non-retail business acres per town
        
        - CHAS     Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)
